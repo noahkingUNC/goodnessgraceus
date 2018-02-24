@@ -2454,7 +2454,7 @@ section {
 /* Contact Section */
 #contact {
   background-color: #192e44 !important;
-  padding-top: 0;
+  height: 90%;
 }
 
 /* Maps */
@@ -2499,6 +2499,7 @@ section {
 footer {
   background: #192e44;
   border-top: 1px solid #bc9d4b;
+  height: 10%;
 }
 
 .footer-info {
